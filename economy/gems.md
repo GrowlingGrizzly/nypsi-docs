@@ -23,9 +23,9 @@ double cookies from baking only take the highest chance from all gems
 the effects listed of each gem are averaged. this means that at any given time their effects could be higher or lower than what's listed.
 
 
-`code text` = removed when you have a crystal heart (except shattering). any time it is the other half of a percentage (ex: 60% is positive, `other 40% is negative`), the positive happens 100% of the time with a heart.
+**bold text** = removed when you have a crystal heart (except shattering). any time it is the other half of a percentage (ex: 60% is positive, `other 40% is negative`), the positive happens 100% of the time with a heart.
 
-**bold text** means that, combined, only one gem can be given every 24 hours globally from any of these methods.
+`code text` means that, combined, only one gem can be given every 24 hours globally from any of these methods.
 
 ranged values (ex: 1-17%) has an equal chance for all options
 
@@ -43,13 +43,13 @@ crafting: 10 gem shards
 
 tower: 1.5% chance to spawn per row (max 1 per game), 0.5% chance to drop when clicked
 
-mines: 20% chance to spawn, **0.5% chance to drop when clicked**
+mines: 20% chance to spawn, `0.5% chance to drop when clicked`
 
 1% chance to obtain when buying an item from the store (NOT the shop)
 
-**0.00025% (1/400,000) chance to obtain from doing any command (cooldown of 1 minute per check)**
+`0.00025% (1/400,000) chance to obtain from doing any command (cooldown of 1 minute per check)`
 
-**0.175% chance to obtain from completing any achievement**
+`0.175% chance to obtain from completing any achievement`
 
 21.718% chance to obtain from a gem crate 
 
@@ -68,20 +68,20 @@ cannot shatter
 <summary>blue gem</summary>
 
 ## effects
-60% chance to increase worker output by 17%, `other 40% decreases output by 20%`
+60% chance to increase worker output by 17%, **other 40% decreases output by 20%**
 
 0.1% chance to double cookies baked
 
 ## obtaining
 crafting: 5 gem shards
 
-**0.03% chance to obtain from $daily**
+`0.03% chance to obtain from $daily`
 
 1% chance to obtain when buying an item from the store (NOT the shop)
 
-**0.00025% (1/400,000) chance to obtain from doing any command (cooldown of 1 minute per check)**
+`0.00025% (1/400,000) chance to obtain from doing any command (cooldown of 1 minute per check)`
 
-**0.175% chance to obtain from completing any achievement**
+`0.175% chance to obtain from completing any achievement`
 
 21.531% chance to obtain from a gem crate
 
@@ -104,7 +104,7 @@ max shards given from shattering: 3
 <summary>purple gem</summary>
 
 ## effects
-50% chance to increase worker item value by 17%, `other 50% decreases value by 17%`
+50% chance to increase worker item value by 17%, **other 50% decreases value by 17%**
 
 50% chance to reduce karma deterioration by 56.25%
 
@@ -115,17 +115,17 @@ max shards given from shattering: 3
 ## obtaining
 crafting: 15 gem shards
 
-**0.9% chance to obtain from winning the lottery**
+`0.9% chance to obtain from winning the lottery`
 
 0.007% chance to obtain from doing any animal command (cooldown of 1 minute per check)
 
 1% chance to obtain when buying an item from the store (NOT the shop)
 
-**0.1% chance to obtain when buying an item from the karmashop**
+`0.1% chance to obtain when buying an item from the karmashop`
 
-**0.00025% (1/400,000) chance to obtain from doing any command (cooldown of 1 minute per check)**
+`0.00025% (1/400,000) chance to obtain from doing any command (cooldown of 1 minute per check)`
 
-**0.175% chance to obtain from completing any achievement**
+`0.175% chance to obtain from completing any achievement`
 
 21.555% chance to obtain from a gem crate
 
@@ -152,9 +152,9 @@ max shards given from shattering: 10
 <summary>pink gem</summary>
 
 ## effects
-+0.92% gamble multiplier `(20% chance to reduce multi by 3%)`
++0.92% gamble multiplier **(20% chance to reduce multi by 3%)**
 
-+4% sell multiplier `(20% chance to reduce multi by 3%)`
++4% sell multiplier **(20% chance to reduce multi by 3%)**
 
 ## obtaining
 crafting: 20 gem shards
@@ -163,9 +163,9 @@ crafting: 20 gem shards
 
 1% chance to obtain when buying an item from the store (NOT the shop)
 
-**0.00025% (1/400,000) chance to obtain from doing any command (cooldown of 1 minute per check)**
+`0.00025% (1/400,000) chance to obtain from doing any command (cooldown of 1 minute per check)`
 
-**0.175% chance to obtain from completing any achievement**
+`0.175% chance to obtain from completing any achievement`
 
 21.475% chance to obtain from a gem crate
 
@@ -190,13 +190,13 @@ max shards given from shattering: 15
 ## effects
 +70% max worker storage
 
-+60% chance for +70% more worker items per hour and item value, `other 40% cuts items/hr and value in half`
++60% chance for +70% more worker items per hour and item value, **other 40% cuts items/hr and value in half**
 
 +80% chance to increase max xp gain by 1-17% for each gamble, other 20% decreases by 1-7%
 
-+2% gamble multiplier `(20% chance to reduce multi by 1-3%)`
++2% gamble multiplier **(20% chance to reduce multi by 1-3%)**
 
-+2.4% sell multiplier `(20% chance to reduce multi by 1-6%)`
++2.4% sell multiplier **(20% chance to reduce multi by 1-6%)**
 
 50% chance to save your daily streak from resetting
 
