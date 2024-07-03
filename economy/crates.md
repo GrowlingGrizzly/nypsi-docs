@@ -16,4 +16,4 @@ you can view the odds / chances for items from crates [here](https://github.com/
 
 use the `/opencrates` command to open multiple crates at once. you can use `/use` to open specific crates.
 
-{% @nypsi-crate-odds/nypsi-crate-odds %}
+{% @nypsi-crate-odds/crate-odds %}
