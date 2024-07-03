@@ -8,6 +8,10 @@ you can easily obtain vote crates by voting for nypsi with `$vote`. you can also
 
 you can get random items such as collectables and cars, but most notably being tools such as fishing rods, guns and pickaxes.
 
+## how do i open my crates?
+
+use the `/opencrates` command to open multiple crates at once. you can use `/use` to open specific crates.
+
 ## crate odds
 
 {% tabs %}
@@ -43,7 +47,3 @@ you can get random items such as collectables and cars, but most notably being t
 {% @nypsi-crate-odds/gem-crate-1 %}
 {% endtab %}
 {% endtabs %}
-
-## how do i open my crates?
-
-use the `/opencrates` command to open multiple crates at once. you can use `/use` to open specific crates.
