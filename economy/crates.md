@@ -12,35 +12,35 @@ you can get random items such as collectables and cars, but most notably being t
 
 {% tabs %}
 {% tab title="vote crate" %}
-temp
+{% @nypsi-crate-odds/vote-crate-1 %}
 {% endtab %}
 
 {% tab title="basic/6940 crate" %}
-temp
+{% @nypsi-crate-odds/basic-crate-1 %}
 {% endtab %}
 
 {% tab title="boosters crate" %}
-temp
+{% @nypsi-crate-odds/boosters-crate-1 %}
 {% endtab %}
 
 {% tab title="workers crate" %}
-temp
+{% @nypsi-crate-odds/workers-crate-1 %}
 {% endtab %}
 
 {% tab title="mineshaft chest" %}
-temp
+{% @nypsi-crate-odds/mineshaft-chest-1 %}
 {% endtab %}
 
 {% tab title="nypsi crate" %}
-temp
+{% @nypsi-crate-odds/nypsi-crate-1 %}
 {% endtab %}
 
 {% tab title="omega crate" %}
-temp
+{% @nypsi-crate-odds/omega-crate-1 %}
 {% endtab %}
 
 {% tab title="gem crate" %}
-temp
+{% @nypsi-crate-odds/gem-crate-1 %}
 {% endtab %}
 {% endtabs %}
 
