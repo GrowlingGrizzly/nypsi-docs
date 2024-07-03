@@ -15,35 +15,31 @@ use the `/opencrates` command to open multiple crates at once. you can use `/use
 ## crate odds
 
 {% tabs %}
-{% tab title="vote crate" %}
-{% @nypsi-crate-odds/vote-crate-1 %}
+{% tab title="vote/basic/6940" %}
+{% @nypsi-crate-odds/basic-crate %}
 {% endtab %}
 
-{% tab title="basic/6940 crate" %}
-{% @nypsi-crate-odds/basic-crate-1 %}
+{% tab title="boosters" %}
+{% @nypsi-crate-odds/boosters-crate %}
 {% endtab %}
 
-{% tab title="boosters crate" %}
-{% @nypsi-crate-odds/boosters-crate-1 %}
-{% endtab %}
-
-{% tab title="workers crate" %}
-{% @nypsi-crate-odds/workers-crate-1 %}
+{% tab title="workers" %}
+{% @nypsi-crate-odds/workers-crate %}
 {% endtab %}
 
 {% tab title="mineshaft chest" %}
-{% @nypsi-crate-odds/mineshaft-chest-1 %}
+{% @nypsi-crate-odds/mineshaft-chest %}
 {% endtab %}
 
-{% tab title="nypsi crate" %}
-{% @nypsi-crate-odds/nypsi-crate-1 %}
+{% tab title="nypsi" %}
+{% @nypsi-crate-odds/nypsi-crate %}
 {% endtab %}
 
-{% tab title="omega crate" %}
-{% @nypsi-crate-odds/omega-crate-1 %}
+{% tab title="omega" %}
+{% @nypsi-crate-odds/omega-crate %}
 {% endtab %}
 
-{% tab title="gem crate" %}
-{% @nypsi-crate-odds/gem-crate-1 %}
+{% tab title="gem" %}
+{% @nypsi-crate-odds/gem-crate %}
 {% endtab %}
 {% endtabs %}
