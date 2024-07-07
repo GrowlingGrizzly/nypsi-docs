@@ -10,6 +10,10 @@ you can get random items such as collectables and cars, but most notably being t
 
 ## how do i open my crates?
 
+
+
+<table data-header-hidden data-full-width="true"><thead><tr><th></th><th></th><th data-hidden></th><th data-hidden><select></select></th></tr></thead><tbody><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
+
 use the `/opencrates` command to open multiple crates at once. you can use `/use` to open specific crates.
 
 ## crate odds
