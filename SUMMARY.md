@@ -36,3 +36,4 @@
   * [cases](moderation/cases.md)
   * [evidence](moderation/evidence.md)
   * [mute role](moderation/muterole.md)
+* [title](title.md)

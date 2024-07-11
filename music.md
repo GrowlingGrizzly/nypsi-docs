@@ -2,7 +2,9 @@
 
 ## getting started
 
-{% @nypsi/embed-item-modal content="this is test [corner_shop_scratchie] text after" %}
+```embed-item-modal
+this is test [corner_shop_scratchie] text after
+```
 
 first, you must create a [last.fm](https://last.fm) account. you can then follow [this](https://community.spotify.com/t5/FAQs/How-can-I-connect-Spotify-to-Last-fm/ta-p/4795301) guide to connect your spotify to last.fm
 
